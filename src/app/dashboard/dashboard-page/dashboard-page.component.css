@@ -1,0 +1,7 @@
+.container {
+  padding: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100vw;
+}
